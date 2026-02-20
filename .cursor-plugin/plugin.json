@@ -11,6 +11,15 @@
   "homepage": "https://github.com/ofershap/think-first",
   "repository": "https://github.com/ofershap/think-first",
   "license": "MIT",
-  "keywords": ["planning", "workflow", "agent-behavior", "think-first", "plan-before-code", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "planning",
+    "workflow",
+    "agent-behavior",
+    "think-first",
+    "plan-before-code",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "logo": "assets/logo.svg"
 }

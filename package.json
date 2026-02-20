@@ -8,7 +8,16 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "keywords": ["planning", "workflow", "agent-behavior", "think-first", "plan-before-code", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "planning",
+    "workflow",
+    "agent-behavior",
+    "think-first",
+    "plan-before-code",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "author": {
     "name": "Ofer Shapira",
     "url": "https://github.com/ofershap"
