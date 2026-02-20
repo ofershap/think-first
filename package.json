@@ -1,0 +1,24 @@
+{
+  "name": "think-first",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Stop your AI agent from coding before thinking. Enforces a plan-first workflow: understand, explore, plan, then implement. Reduces backtracking and wasted tokens.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": ["planning", "workflow", "agent-behavior", "think-first", "plan-before-code", "cursor-plugin", "claude-code", "ai-agent"],
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofershap/think-first.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.0"
+  }
+}

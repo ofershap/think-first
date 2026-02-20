@@ -1,0 +1,13 @@
+{
+  "name": "think-first",
+  "displayName": "Think First",
+  "version": "0.1.0",
+  "description": "Stop your AI agent from coding before thinking. Enforces a plan-first workflow: understand, explore, plan, then implement. Reduces backtracking and wasted tokens.",
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "homepage": "https://github.com/ofershap/think-first",
+  "repository": "https://github.com/ofershap/think-first",
+  "license": "MIT"
+}
