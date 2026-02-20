@@ -1,7 +1,7 @@
 # Think First
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-think--first-blue)](https://skills.sh/ofershap/think-first/think-first)
+[![Skills](https://img.shields.io/badge/skills.sh-think--first-blue)](https://skills.sh/ofershap/think-first)
 
 Stop your AI agent from coding before thinking. Enforces a plan-first workflow: read before writing,
 search before creating, understand before fixing. Reduces backtracking, wasted tokens, and broken
@@ -28,7 +28,7 @@ Agent reads auth.ts, traces the login flow, searches for similar fixes, identifi
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/think-first/think-first
+npx skills add ofershap/think-first
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
