@@ -63,6 +63,10 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 - [ai-humanizer](https://github.com/ofershap/ai-humanizer) - Prevent AI-detectable patterns in
   generated content
 
+---
+
+If this helped your workflow, a star helps others find it.
+
 ## Author
 
 [![Made by ofershap](https://gitshow.dev/api/card/ofershap)](https://gitshow.dev/ofershap)
